@@ -23,7 +23,7 @@ export default function Home() {
 
   try {
     const res = await fetch(
-      `http://localhost:3000/quiz?topic=${selectedTopic}`
+      `https://quiz-app-oum5.onrender.com/quiz?topic=${selectedTopic}`
     );
     const data = await res.json();
 
@@ -74,7 +74,7 @@ export default function Home() {
       selectedAnswer: answers[qId]
     }));
 
-    const res = await fetch("http://localhost:3000/submit", {
+    const res = await fetch("https://quiz-app-oum5.onrender.com/submit", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
