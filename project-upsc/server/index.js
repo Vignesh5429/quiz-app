@@ -19,6 +19,7 @@ mongoose.connect(process.env.MONGO_URI)
   .catch((err) => {
     console.error("MongoDB Connection Error ❌");
     console.error(err.message);
+    require("dotenv").config({ path: "./.env" });
   });
 
 // Routes
