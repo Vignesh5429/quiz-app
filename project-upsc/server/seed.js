@@ -8,7 +8,10 @@ mongoose.connect(process.env.MONGO_URI)
   .then(async () => {
     console.log("Connected");
 
-    await Question.insertMany(questions);
+  // clears old data
+//await Question.deleteMany({});//use only if u want to clear old data
+
+await Question.insertMany(questions);
 
     console.log("Data inserted");
     process.exit();

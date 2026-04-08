@@ -1,154 +1,31 @@
-[
-  {
-    "question": "Recently the Supreme Court reiterated that 'no one is above the law'. This reflects which element of Dicey’s Rule of Law?",
-    "options": ["Supremacy of law", "Legal certainty", "Accountability of government", "Separation of powers"],
-    "correctAnswer": "Supremacy of law",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Which statement is NOT correct about Constituent Assembly?",
-    "options": [
-      "Included princely states",
-      "Elected by universal adult franchise",
-      "Continued as provisional Parliament",
-      "Adopted National Flag before Independence"
-    ],
-    "correctAnswer": "Elected by universal adult franchise",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Objective Resolution and Preamble statements – which are correct?",
-    "options": ["1 and 3 only", "2 only", "1 and 2 only", "1,2,3"],
-    "correctAnswer": "1 and 3 only",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Who among the following women signed the Constitution?",
-    "options": [
-      "Dakshayani Velayudhan and Amrit Kaur",
-      "Amrit Kaur and Anjalai Ammal",
-      "Dakshayani Velayudhan and Anjalai Ammal",
-      "All of the above"
-    ],
-    "correctAnswer": "Dakshayani Velayudhan and Amrit Kaur",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Sources of Constitution – which are correct?",
-    "options": ["1 and 2 only", "2 and 3 only", "3 only", "1,2,3"],
-    "correctAnswer": "2 and 3 only",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
 
-  {
-    "question": "Which statements about constitutionalism are correct?",
-    "options": ["2 and 3 only", "1 and 2 only", "1 only", "1,2,3"],
-    "correctAnswer": "2 and 3 only",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Article 368 – which are correct?",
-    "options": ["1 and 2 only", "1 only", "2 and 3 only", "1,2,3"],
-    "correctAnswer": "1 and 2 only",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Basic structure includes which?",
-    "options": [
-      "1,2 and 4 only",
-      "2,3 and 4 only",
-      "1 and 3 only",
-      "1,2,3,4"
-    ],
-    "correctAnswer": "1,2 and 4 only",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Ninth Schedule – correct statement?",
-    "options": [
-      "Completely immune from review",
-      "Created by 42nd Amendment",
-      "Open to review if violates basic structure",
-      "Only land reforms"
-    ],
-    "correctAnswer": "Open to review if violates basic structure",
-    "topic": "Polity",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Which is NOT required for federal amendment?",
-    "options": [
-      "Special majority",
-      "State ratification",
-      "Referendum",
-      "President assent"
-    ],
-    "correctAnswer": "Referendum",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-
-  {
-    "question": "Parliamentary system features – correct?",
-    "options": ["1 and 3 only", "2 only", "1 and 2 only", "1,2,3"],
-    "correctAnswer": "1 and 3 only",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Popular sovereignty refers to?",
-    "options": [
-      "Power rests with people",
-      "Power rests with states",
-      "Power rests with Constitution",
-      "Power rests internationally"
-    ],
-    "correctAnswer": "Power rests with people",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Constitution Day – correct?",
-    "options": [
-      "Both correct and explanation",
-      "Both correct not explanation",
-      "Only I correct",
-      "Only II correct"
-    ],
-    "correctAnswer": "Both correct and explanation",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-  {
-    "question": "“Agreement by free will…” was said by?",
-    "options": [
-      "Nehru",
-      "Ambedkar",
-      "Munshi",
-      "Sarojini Naidu"
-    ],
-    "correctAnswer": "Nehru",
-    "topic": "Polity",
-    "difficulty": "easy"
-  },
-  {
-    "question": "System emphasizing rule of law and rights is?",
-    "options": [
-      "Political democracy",
-      "Liberal democracy",
-      "Direct democracy",
-      "Federalism"
-    ],
-    "correctAnswer": "Liberal democracy",
-    "topic": "Polity",
-    "difficulty": "easy"
-  }
+ [
+{
+  "question": "Who introduced the Subsidiary Alliance system?",
+  "options": ["Clive", "Dalhousie", "Wellesley", "Curzon"],
+  "correctAnswer": "Wellesley",
+  "topic": "Modern History",
+  "difficulty": "medium"
+},
+{
+  "question": "In which year did the Revolt of 1857 occur?",
+  "options": ["1855", "1856", "1857", "1858"],
+  "correctAnswer": "1857",
+  "topic": "Modern History",
+  "difficulty": "easy"
+},
+{
+  "question": "Who was the first Governor-General of India?",
+  "options": ["Warren Hastings", "Lord Cornwallis", "Lord Curzon", "Lord Dalhousie"],
+  "correctAnswer": "Warren Hastings",
+  "topic": "Modern History",
+  "difficulty": "medium"
+},
+{
+  "question": "Which battle marked the end of the Maratha Empire?",
+  "options": ["Battle of Plassey", "Battle of Buxar", "Third Battle of Panipat", "Battle of Assaye"],
+  "correctAnswer": "Third Battle of Panipat",
+  "topic": "Modern History",
+  "difficulty": "hard"
+}
 ]

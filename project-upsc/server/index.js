@@ -7,7 +7,7 @@ require("dotenv").config();
 
 const app = express();
 
-app.use(cors());   // ✅ ADD THIS
+app.use(cors());   // 
 app.use(express.json());
 
 // 🔍 Debug: check if ENV is loading
