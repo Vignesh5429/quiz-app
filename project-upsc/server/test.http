@@ -1,0 +1,10 @@
+POST http://localhost:3000/add-question
+Content-Type: application/json
+
+{
+  "question": "Who drafted the Indian Constitution?",
+  "options": ["Gandhi", "Nehru", "Ambedkar", "Rajendra Prasad"],
+  "correctAnswer": "Ambedkar",
+  "topic": "Polity",
+  "difficulty": "easy"
+}
